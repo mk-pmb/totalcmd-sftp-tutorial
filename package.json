@@ -1,0 +1,24 @@
+{ "name": "totalcmd-sftp-tutorial",
+  "version": "0.0.1",
+  "description": "sftp4tc screenshots and tutorials",
+  "keywords": [
+    "sftp",
+    "totalcmd"
+  ],
+
+  "author": "Marcel Krause (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/totalcmd-sftp-tutorial/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/totalcmd-sftp-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/totalcmd-sftp-tutorial/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "BSD-3-Clause",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
